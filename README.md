@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="[https://vk.com/nadyavilboa" target="_blank">
-      <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vkontakte&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
   
